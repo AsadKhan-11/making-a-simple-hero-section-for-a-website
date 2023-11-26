@@ -21,7 +21,7 @@ header {
   margin-bottom: 80px;
   height: 100vh;
   background-image: linear-gradient(rgb(0, 0, 0, 0.3), rgb(0, 0, 0, 0.3)),
-    url(hero.jpg);
+    url(img/hero.jpg);
   background-size: cover;
   position: relative;
   color: white;
